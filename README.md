@@ -8,7 +8,7 @@
 104262@protonmail.com
 
 # Github資訊
-我的Github就放有的沒的，沒什麼好看啦（我是不是那種喜歡做專案的）
+我的Github就放有的沒的，沒什麼好看啦（我不是那種喜歡做專案的）
 
 [![51511's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=51511)](https://github.com/anuraghazra/github-readme-stats)
 
