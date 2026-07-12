@@ -11,6 +11,12 @@
 
 # Github
 我的Github就放有的沒的，沒什麼好看啦（我不是那種喜歡做專案的）
+
+# 一些特殊東西
+- 我發現過FFmpeg漏洞喔!
+- 發現過學校網頁漏洞
+![picture](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTIrf2hfV7NenfMkQPyOYIA4jLyaJJrD1s-wxSwTTu7-FhYnW_PZPrph0&s=10)
+
 </details>
 
 <details>
