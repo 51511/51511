@@ -12,6 +12,10 @@
 # Github
 我的Github就放有的沒的，沒什麼好看啦（我不是那種喜歡做專案的）
 
+# 證照
+- 沒用的TQC+ python
+- iPAS初級，準備中級中
+
 # 一些特殊東西
 - 我發現過FFmpeg漏洞喔!
 - 發現過學校網頁漏洞
@@ -30,4 +34,3 @@ I enjoy diving into cybersecurity (maybe I'm actually good at it).
 
 </details>
 
-[![51511's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=51511)](https://github.com/anuraghazra/github-readme-stats)
