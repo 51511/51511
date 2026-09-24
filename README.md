@@ -14,11 +14,11 @@
 
 # 證照
 - 沒用的TQC+ python
-- iPAS初級，準備中級中
+- iPAS初級
 
 # 一些特殊東西
-- 我發現過FFmpeg漏洞喔!
-- 發現過學校網頁漏洞
+- CVE-2026-96611
+- HITCON ZeroDay-2026-00093
 
 ![picture](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTIrf2hfV7NenfMkQPyOYIA4jLyaJJrD1s-wxSwTTu7-FhYnW_PZPrph0&s=10)
 
