@@ -33,5 +33,9 @@ A human who breathes. Also a high school student.
 ## What do I like (or maybe I'm good at)?
 I enjoy diving into cybersecurity (maybe I'm actually good at it).
 
+## Some special experiences in vulnerability discovery (CVE)
+- CVE-2026-96611
+
 </details>
 
+contact:[contact@新葉喵.com](mailto:contact@%E6%96%B0%E8%91%89%E5%96%B5.com)
